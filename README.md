@@ -28,5 +28,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages]()
-
+* [Ссылка на GitHub Pages](https://aggella.github.io/Travel/)
